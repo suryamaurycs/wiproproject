@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T11:32:17 IST" name="Suite" finished-at="2024-06-18T11:33:57 IST" duration-ms="100429">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T11:32:17 IST" name="Test" finished-at="2024-06-18T11:33:57 IST" duration-ms="100429">
+      <class name="tests.MainTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:17 IST" name="setUp" finished-at="2024-06-18T11:32:24 IST" duration-ms="6944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginFuctionality()[pri:0, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:24 IST" name="loginFuctionality" finished-at="2024-06-18T11:32:30 IST" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFuctionality -->
+        <test-method signature="cat()[pri:1, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:30 IST" name="cat" finished-at="2024-06-18T11:32:35 IST" duration-ms="5222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cat -->
+        <test-method signature="nextNavigate()[pri:2, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:35 IST" name="nextNavigate" finished-at="2024-06-18T11:32:51 IST" duration-ms="15230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextNavigate -->
+        <test-method signature="contactDemo()[pri:3, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:51 IST" name="contactDemo" finished-at="2024-06-18T11:32:52 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactDemo -->
+        <test-method signature="addCartDemo()[pri:4, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:32:52 IST" name="addCartDemo" finished-at="2024-06-18T11:33:22 IST" duration-ms="29491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCartDemo -->
+        <test-method signature="delete()[pri:5, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:33:22 IST" name="delete" finished-at="2024-06-18T11:33:25 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="ChechoutProcess()[pri:6, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:33:25 IST" name="ChechoutProcess" finished-at="2024-06-18T11:33:56 IST" duration-ms="31179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChechoutProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.MainTest@74235045]" started-at="2024-06-18T11:33:56 IST" name="tearDown" finished-at="2024-06-18T11:33:57 IST" duration-ms="776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
